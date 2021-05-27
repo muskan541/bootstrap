@@ -1,0 +1,49 @@
+.a{   
+    padding-top: 38px;
+    text-transform: uppercase;
+    font-family: inherit;
+    letter-spacing: 3px;
+    margin-bottom: 36px;
+}
+.ab{
+	line-height: 42px;
+	letter-spacing: 2px;
+	word-spacing: 3px;
+	text-align: justify;
+	font-family: inherit;
+	color: grey;
+}
+.b{
+    background-image: url(https://www.firstfiddle.in/assets/images/bannerabout.jpg); 
+    width: 100%;
+    background-size: cover;   
+    margin-top: 90px;
+}
+.c{
+	text-align: center;
+	font-size: 60px;
+	font-family: inherit;
+	margin-top: 60px;
+}
+.d{
+	word-spacing: 5px;
+    text-align: center;
+    color: white;
+    line-height: 40px;
+    letter-spacing: 2px;
+}
+.bt{
+	text-align: center;
+	background-color: #fbac29;
+    border-radius: 0px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px ;
+    margin-left: 302px;
+    margin-bottom: 85px;
+    color: white;   
+    width: 230px;
+    height: 51px;
+    text-align: center;
+    line-height: 37px;
+    font-size: 21px;
+
+}

@@ -1,0 +1,17 @@
+.abc{
+	background-color: #0000006e;
+}
+.menu{
+	margin-left: 648px;
+}
+.image{
+	background: url(https://www.dragonflyexperience.in/assets/images/background.jpg);
+}
+.midimage{
+	    width: 316px;
+    margin-top: -76px;
+}
+@media(max-width: 600px;)
+{
+
+}
